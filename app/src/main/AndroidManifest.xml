@@ -19,8 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.TextInputLayoutActivity"
-            android:screenOrientation="portrait"/>
+            android:name=".activity.TextInputLayoutActivity"/>
     </application>
 
 </manifest>
